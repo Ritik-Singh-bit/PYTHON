@@ -7,6 +7,7 @@ match c:
         print(a+b)
     case "B":
          print(a-b)
+    case"C":
          print(a*b)    
     case "D" :
         print(a/b)
